@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Gagal upload file karena tidak memilih file yang akan upload - Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a60af99-021f-4af6-b323-c0db544e8ab7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2524c0ef-0e77-4c6f-9cd0-b7b8e183c889</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'E:\\Book1.xlsx'</defaultValue>
+      <description></description>
+      <id>2524c0ef-0e77-4c6f-9cd0-b7b8e183c889</id>
+      <masked>false</masked>
+      <name>file_path</name>
+   </variable>
+</TestCaseEntity>

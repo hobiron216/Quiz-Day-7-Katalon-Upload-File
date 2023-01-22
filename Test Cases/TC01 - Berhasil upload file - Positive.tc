@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - Berhasil upload file - Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81892cb2-a5a4-4ffe-bb7a-dc294455ae4f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c7294508-e0b6-4282-b97c-582d1c065c0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'E:\\Book1.xlsx'</defaultValue>
+      <description></description>
+      <id>c7294508-e0b6-4282-b97c-582d1c065c0f</id>
+      <masked>false</masked>
+      <name>file_path</name>
+   </variable>
+</TestCaseEntity>

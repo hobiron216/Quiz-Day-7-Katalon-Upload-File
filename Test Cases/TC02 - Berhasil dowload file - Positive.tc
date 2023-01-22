@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TS01 - Berhasil upload file</name>
+   <name>TC02 - Berhasil dowload file - Positive</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>81892cb2-a5a4-4ffe-bb7a-dc294455ae4f</testCaseGuid>
+   <testCaseGuid>fa4f98a7-f801-4a12-b120-1f1da5db09b8</testCaseGuid>
 </TestCaseEntity>
